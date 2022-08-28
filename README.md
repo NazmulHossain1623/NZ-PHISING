@@ -1,8 +1,8 @@
 # NZ-PHISING 
 
 
+𝗧𝗘𝗥𝗠𝗨𝗫 𝗥𝗨𝗡 𝗧𝗢𝗢𝗟𝗦
 
-TERMUX RUN COMMAND..
 
 git clone https://github.com/NazmulHossain1623/NZ-PHISING.git
 
